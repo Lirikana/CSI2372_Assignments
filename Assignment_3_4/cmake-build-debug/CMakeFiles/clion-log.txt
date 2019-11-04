@@ -1,0 +1,4 @@
+C:\Users\Edward\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/z/CSI2372/CSI2372_Assignments/Assignment_3_4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/z/CSI2372/CSI2372_Assignments/Assignment_3_4/cmake-build-debug

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/z/CSI2372/CSI2372_Assignments/Assignment_3_4/exercise2.cpp
+iostream
+-
+fstream
+-
+stdlib.h
+-
+
